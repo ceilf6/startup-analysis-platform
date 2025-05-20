@@ -1,6 +1,6 @@
 # 创业分析平台
 
-这是一个用于分析创业公司数据的综合平台，包含爬虫系统、数据分析工具、创业评估AI模型、Web端和小程序端。
+本项目是一个多端应用，前端基于 Vue.js + Element UI 框架，后端是一个微服务架构，包含Java、Python、Node.js服务，通过容器化部署，前后端间通过 Axios 库进行API通信
 
 详细解析可以看https://blog.csdn.net/2301_78856868/article/details/147749386?sharetype=blogdetail&sharerId=147749386&sharerefer=PC&sharesource=2301_78856868&spm=1011.2480.3001.8118
 
