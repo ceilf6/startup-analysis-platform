@@ -4,8 +4,6 @@
 
 详细解析可以看https://blog.csdn.net/2301_78856868/article/details/147749386?sharetype=blogdetail&sharerId=147749386&sharerefer=PC&sharesource=2301_78856868&spm=1011.2480.3001.8118
 
-如有问题随时联系我：3506456886@qq.com
-
 ## 系统组件
 
 ### 后端服务
